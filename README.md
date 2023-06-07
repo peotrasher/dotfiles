@@ -1,5 +1,11 @@
 ## Referencias
 
-La mayoria de cosas las aprendí (copié) de _**typecraft**_
+[Configuracion inicial](https://www.youtube.com/watch?v=J9yqSdvAKXY)
 
-y si, eso...
+[Usar un LSP (Language Server Protocol)](https://www.youtube.com/watch?v=lpQMeFph1RE)
+
+[Cambiar binds de TMUX y usar TPM](https://www.youtube.com/watch?v=H70lULWJeig)
+
+[Otros binds de TMUX](https://www.youtube.com/watch?v=bjBjZvZsgks&t)
+
+[Oh-my-ZSH](https://www.youtube.com/watch?v=wNQpDWLs4To)
