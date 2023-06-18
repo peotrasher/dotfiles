@@ -9,6 +9,7 @@
 * [oh-my-zsh](https://github.com/ohmyzsh/ohmyzsh)
 
 ---
+* [bugaevc/wl-clipboard](https://github.com/bugaevc/wl-clipboard)
 * [romkatv/powerlevel10k](https://github.com/romkatv/powerlevel10k)
 * [zsh-users/zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting)
 * [zsh-users/zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions)
