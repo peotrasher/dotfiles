@@ -8,6 +8,11 @@
 * [npm](https://github.com/npm/cli)
 * [oh-my-zsh](https://github.com/ohmyzsh/ohmyzsh)
 
+---
+* [zsh-users/zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting)
+* [zsh-users/zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions)
+---
+
 ## 🍓 _**Hacer**_
 
 ### - **TMUX**
