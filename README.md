@@ -1,33 +1,41 @@
-# Dependencias
+# Instrucciones
 
-npm
+## 🍓 _**Instalar**_
 
-* pyright
-* clangd
-* lua_language_server
+* [Hasklug Nerd Font](https://www.nerdfonts.com/)
+* [TMUX Plugin Manager (TPM)](https://github.com/tmux-plugins/tpm)
+* [neovim](https://github.com/neovim/neovim)
+* [npm](https://github.com/npm/cli)
+* [oh-my-zsh](https://github.com/ohmyzsh/ohmyzsh)
 
-zsh
+## 🍓 _**Hacer**_
 
-* (Hay que clonar las extensiones en el directorio de oh-my-zsh, en el custom tanto...)
+### - **TMUX**
 
-Además alguna "Nerd Font" para que se puedan ver los iconos correctos en _**tmux**_ y en el _**nvim-tree**_
+Apretar CTRL+S+I para instalar [catppuccin](https://github.com/catppuccin/tmux)!
 
-<br/>
+### - **neovim**
+
+Abrir el menu de [mason](https://github.com/williamboman/mason.nvim) y instalar:
+
+* [clangd](https://github.com/clangd/clangd)
+* [lua-language-server](https://github.com/LuaLS/lua-language-server)
+* [pyright](https://github.com/microsoft/pyright)
 
 # Referencias
 
-## Neovim
-
-[Configuracion inicial](https://www.youtube.com/watch?v=J9yqSdvAKXY)
-
-[Usar un LSP (Language Server Protocol)](https://www.youtube.com/watch?v=lpQMeFph1RE)
-
-## TMUX
+### **TMUX**
 
 [Cambiar binds de TMUX y usar TPM](https://www.youtube.com/watch?v=H70lULWJeig)
 
 [Otros binds de TMUX](https://www.youtube.com/watch?v=bjBjZvZsgks&t)
 
-## ZSH
+### **neovim**
 
-[Oh-my-ZSH](https://www.youtube.com/watch?v=wNQpDWLs4To)
+[Configuracion inicial](https://www.youtube.com/watch?v=J9yqSdvAKXY)
+
+[Usar un LSP (Language Server Protocol)](https://www.youtube.com/watch?v=lpQMeFph1RE)
+
+### **zsh**
+
+[oh-my-zsh](https://www.youtube.com/watch?v=wNQpDWLs4To)
